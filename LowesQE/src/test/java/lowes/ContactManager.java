@@ -19,7 +19,7 @@ public class ContactManager {
 	@Test
 	public void ContactManager() throws MalformedURLException {
 		
-		
+		//Test comment to check git
 				
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		
