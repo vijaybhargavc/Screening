@@ -17,6 +17,8 @@ public class Calculator {
 	@Test
 	public void calculator() throws Exception {
 
+		//testing class
+		String tempraryVar = "";
 		DesiredCapabilities capability = new DesiredCapabilities();
 		capability.setCapability("platformName", "Android");
 		capability.setCapability("platformVersion", "7.1.1");
